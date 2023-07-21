@@ -3,7 +3,7 @@
 ## Official Link
 
 [incubator](https://charts.helm.sh/incubator)
-[cord](https://charts.opencord.org)
+[opencord](https://charts.opencord.org)
 [atomix](https://charts.atomix.io)
 [onosproject](https://charts.onosproject.org)
 [aether](https://charts.aetherproject.org)

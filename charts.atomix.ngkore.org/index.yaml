@@ -3,7 +3,7 @@ entries:
   atomix:
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2023-07-21T16:18:43.488107809+05:30"
+    created: "2023-07-21T18:16:05.645583669+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -53,7 +53,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2023-07-21T16:18:43.485655392+05:30"
+    created: "2023-07-21T18:16:05.643229116+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -103,7 +103,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2023-07-21T16:18:43.483415932+05:30"
+    created: "2023-07-21T18:16:05.641749074+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -153,7 +153,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-07-21T16:18:43.481252993+05:30"
+    created: "2023-07-21T18:16:05.64035775+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -203,7 +203,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v0.7.3
-    created: "2023-07-21T16:18:43.479264166+05:30"
+    created: "2023-07-21T18:16:05.638921801+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -253,7 +253,7 @@ entries:
     version: 0.7.3
   - apiVersion: v2
     appVersion: v0.7.2
-    created: "2023-07-21T16:18:43.476029697+05:30"
+    created: "2023-07-21T18:16:05.636561117+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -303,7 +303,7 @@ entries:
     version: 0.7.2
   - apiVersion: v2
     appVersion: v0.7.1
-    created: "2023-07-21T16:18:43.47366622+05:30"
+    created: "2023-07-21T18:16:05.634996629+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -353,7 +353,7 @@ entries:
     version: 0.7.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.471250547+05:30"
+    created: "2023-07-21T18:16:05.633358125+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -403,7 +403,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-07-21T16:18:43.469334413+05:30"
+    created: "2023-07-21T18:16:05.631533193+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -453,7 +453,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-07-21T16:18:43.466849584+05:30"
+    created: "2023-07-21T18:16:05.628307518+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -503,7 +503,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.6
-    created: "2023-07-21T16:18:43.465013825+05:30"
+    created: "2023-07-21T18:16:05.626511041+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -553,7 +553,7 @@ entries:
     version: 0.4.6
   - apiVersion: v2
     appVersion: v0.4.5
-    created: "2023-07-21T16:18:43.463127658+05:30"
+    created: "2023-07-21T18:16:05.624797472+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -603,7 +603,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: v0.4.4
-    created: "2023-07-21T16:18:43.461276934+05:30"
+    created: "2023-07-21T18:16:05.622859012+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -653,7 +653,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: v0.4.3
-    created: "2023-07-21T16:18:43.458535479+05:30"
+    created: "2023-07-21T18:16:05.620247221+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -703,7 +703,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: v0.4.2
-    created: "2023-07-21T16:18:43.456706629+05:30"
+    created: "2023-07-21T18:16:05.618707027+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -753,7 +753,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.454878453+05:30"
+    created: "2023-07-21T18:16:05.61701701+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -803,7 +803,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.452775968+05:30"
+    created: "2023-07-21T18:16:05.615167647+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -853,7 +853,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-07-21T16:18:43.450068504+05:30"
+    created: "2023-07-21T18:16:05.612516617+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -899,7 +899,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.2.2
-    created: "2023-07-21T16:18:43.448519637+05:30"
+    created: "2023-07-21T18:16:05.610664396+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -945,7 +945,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: v0.2.1
-    created: "2023-07-21T16:18:43.447013965+05:30"
+    created: "2023-07-21T18:16:05.609181784+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -991,7 +991,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2023-07-21T16:18:43.445332719+05:30"
+    created: "2023-07-21T18:16:05.607669123+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -1037,7 +1037,7 @@ entries:
     version: 0.2.0
   - apiVersion: v1
     appVersion: 3.1.12
-    created: "2023-07-21T16:18:43.442045012+05:30"
+    created: "2023-07-21T18:16:05.605352019+05:30"
     description: Configurable Atomix 3.1.12 cluster
     digest: d064b13fc47055e7d881bce0a39b3432de2d529e384c76be750cd935e62a0af3
     home: https://atomix.io
@@ -1056,7 +1056,7 @@ entries:
     version: 0.1.9
   - apiVersion: v1
     appVersion: 3.1.9
-    created: "2023-07-21T16:18:43.44168092+05:30"
+    created: "2023-07-21T18:16:05.605054017+05:30"
     description: Configurable Atomix 3.1.9 cluster
     digest: 632948e260a24de92e2e63f40db6e9a0698dd18d77097dd8205de5ed5652da14
     home: https://atomix.io
@@ -1075,7 +1075,7 @@ entries:
     version: 0.1.8
   - apiVersion: v1
     appVersion: 3.1.9
-    created: "2023-07-21T16:18:43.441289162+05:30"
+    created: "2023-07-21T18:16:05.604751064+05:30"
     description: Configurable Atomix 3.1.9 cluster
     digest: db6dfca8dba787d23514976952f449f89edc3c6132cd77b058096ba7990f6a0a
     home: https://atomix.io
@@ -1094,7 +1094,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2023-07-21T16:18:43.440961832+05:30"
+    created: "2023-07-21T18:16:05.60448478+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -1136,7 +1136,7 @@ entries:
     version: 0.1.6
   - apiVersion: v1
     appVersion: 3.1.9
-    created: "2023-07-21T16:18:43.439786905+05:30"
+    created: "2023-07-21T18:16:05.603494175+05:30"
     description: Configurable Atomix 3.1.9 cluster
     digest: ade2c919b3b0e698eee254a35a94aa452efba50671045abff6e6b16d41667799
     home: https://atomix.io
@@ -1155,7 +1155,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: v0.1.4
-    created: "2023-07-21T16:18:43.439431206+05:30"
+    created: "2023-07-21T18:16:05.603240824+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -1197,7 +1197,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: v0.1.3
-    created: "2023-07-21T16:18:43.438318634+05:30"
+    created: "2023-07-21T18:16:05.602239467+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -1239,7 +1239,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: v0.1.2
-    created: "2023-07-21T16:18:43.437203661+05:30"
+    created: "2023-07-21T18:16:05.601070627+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -1266,7 +1266,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2023-07-21T16:18:43.435828351+05:30"
+    created: "2023-07-21T18:16:05.600381317+05:30"
     dependencies:
     - alias: controller
       name: atomix-controller
@@ -1294,7 +1294,7 @@ entries:
   atomix-bench:
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.492389713+05:30"
+    created: "2023-07-21T18:16:05.647633627+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: 8b3054eacd6e8dfff06c073d56c140505de8e245213cb25592ecfd654666feb1
     home: https://atomix.io
@@ -1313,7 +1313,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-07-21T16:18:43.491980563+05:30"
+    created: "2023-07-21T18:16:05.647434696+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: 73092205e20e62d03ba8fb458604592625035689dd73ba407328c78ad0f2ae2a
     home: https://atomix.io
@@ -1332,7 +1332,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.491616535+05:30"
+    created: "2023-07-21T18:16:05.647244802+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: 2c4a6886d142f1f0b5bf102fc12a27e4d694f3c116034c693bdec3e4df90b2ce
     home: https://atomix.io
@@ -1351,7 +1351,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.2
-    created: "2023-07-21T16:18:43.49119936+05:30"
+    created: "2023-07-21T18:16:05.647049585+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: f58d109f1540656b345c16c107a4768b0c10d4cf47f3c4615624e71a16bd9b6e
     home: https://atomix.io
@@ -1370,7 +1370,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2023-07-21T16:18:43.490822497+05:30"
+    created: "2023-07-21T18:16:05.646862431+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: 836ed684bd4ae4a519353bda20bca76c2b688d1dffdebf8c7348a69ad593a286
     home: https://atomix.io
@@ -1389,7 +1389,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-07-21T16:18:43.490258697+05:30"
+    created: "2023-07-21T18:16:05.646660429+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: bfb9c7af2072d0327b16c13c61d8a9573b44f3285bb263dad888bc18ba213510
     home: https://atomix.io
@@ -1408,7 +1408,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.2.2
-    created: "2023-07-21T16:18:43.489862291+05:30"
+    created: "2023-07-21T18:16:05.646448563+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: a9bd17cafdc4560e64aaf602c4556b31cb61731f7e0fa3f92a599e389240b4d8
     home: https://atomix.io
@@ -1427,7 +1427,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: v0.2.1
-    created: "2023-07-21T16:18:43.489509069+05:30"
+    created: "2023-07-21T18:16:05.646237402+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: 3fa717ac9a6190ed70e3f89100894d51cd88bc6370ee5355c96a688d7d46e836
     home: https://atomix.io
@@ -1446,7 +1446,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2023-07-21T16:18:43.488825967+05:30"
+    created: "2023-07-21T18:16:05.645909553+05:30"
     description: Benchmarking Helm chart for Atomix
     digest: 4a58702e0040059893004aa129fdbdf57e1c5ee463c76dd32c9748bea34a1eb0
     home: https://atomix.io
@@ -1466,7 +1466,7 @@ entries:
   atomix-consensus-controller:
   - apiVersion: v2
     appVersion: v0.7.1
-    created: "2023-07-21T16:18:43.494526864+05:30"
+    created: "2023-07-21T18:16:05.648308706+05:30"
     description: The consensus controller extends the Kubernetes API with custom resources
       for consensus stores.
     digest: 5bd31dbc35d8616917e08695782d8b258fc574ab29121baf9c4b05f4708d70d6
@@ -1486,7 +1486,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.493551436+05:30"
+    created: "2023-07-21T18:16:05.648083031+05:30"
     description: The consensus controller extends the Kubernetes API with custom resources
       for consensus stores.
     digest: 583b53862444ac78dee4336e208a311bfdd21372a5d978a34cd87f959be3cf3e
@@ -1506,7 +1506,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-07-21T16:18:43.492974552+05:30"
+    created: "2023-07-21T18:16:05.647859655+05:30"
     description: The consensus controller extends the Kubernetes API with custom resources
       for consensus stores.
     digest: 5ce30a25457501342b517adc0d05af548aab39ca2549a2da8cbb617f64be7f05
@@ -1527,7 +1527,7 @@ entries:
   atomix-controller:
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-07-21T16:18:43.517787834+05:30"
+    created: "2023-07-21T18:16:05.6555298+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 053777db71d2a2bbb0deb1ee072ee95880b172fdd8ba860f382c9064dd62a914
@@ -1545,7 +1545,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v0.6.2
-    created: "2023-07-21T16:18:43.516941961+05:30"
+    created: "2023-07-21T18:16:05.655322345+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 4ac8209258171a4d6e185cbf3de5f27112b9749b47f514ffa7e708d056f3ddac
@@ -1563,7 +1563,7 @@ entries:
     version: 0.6.9
   - apiVersion: v2
     appVersion: v0.6.1
-    created: "2023-07-21T16:18:43.516533197+05:30"
+    created: "2023-07-21T18:16:05.655031106+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 09211a9e2b13565e22a904c6d8983a9b4b5e404a1d5e8bd48f0129bbf6fb088c
@@ -1581,7 +1581,7 @@ entries:
     version: 0.6.8
   - apiVersion: v2
     appVersion: v0.5.10
-    created: "2023-07-21T16:18:43.516134502+05:30"
+    created: "2023-07-21T18:16:05.654730306+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 7e2bc1dad3914af3ba8c34ccbaba644f763daeb51eb3b8d72dc01e014cc4dd5d
@@ -1599,7 +1599,7 @@ entries:
     version: 0.6.7
   - apiVersion: v2
     appVersion: v0.5.9
-    created: "2023-07-21T16:18:43.515555398+05:30"
+    created: "2023-07-21T18:16:05.654373529+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 0bd4eac51ca82e4b76a0a9bf6e570b485df7a7c3776ad595b9ebd26fcc44e601
@@ -1617,7 +1617,7 @@ entries:
     version: 0.6.6
   - apiVersion: v2
     appVersion: v0.5.8
-    created: "2023-07-21T16:18:43.514837953+05:30"
+    created: "2023-07-21T18:16:05.654019291+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 4ecf2b4f18073cfb742709283ea02063b8c2a3ec67a49e94fbba09934fb3a311
@@ -1635,7 +1635,7 @@ entries:
     version: 0.6.5
   - apiVersion: v2
     appVersion: v0.5.7
-    created: "2023-07-21T16:18:43.514284918+05:30"
+    created: "2023-07-21T18:16:05.653710126+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 7bab6d7adc80c321bd15604f1b26335f233ac924bd2b403afe9cd91157cbb8b9
@@ -1653,7 +1653,7 @@ entries:
     version: 0.6.4
   - apiVersion: v2
     appVersion: v0.5.6
-    created: "2023-07-21T16:18:43.513661792+05:30"
+    created: "2023-07-21T18:16:05.653394852+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: f9aa3c0580eb9f976f2deabd440e84a7ac818be9191c598b74c680f52c60c112
@@ -1671,7 +1671,7 @@ entries:
     version: 0.6.3
   - apiVersion: v2
     appVersion: v0.5.5
-    created: "2023-07-21T16:18:43.513024701+05:30"
+    created: "2023-07-21T18:16:05.653079583+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 56c7040cd9f9b0986f9f8b0ecb8d72c614d7cb7b3a2c2a45f0b976b8400ba411
@@ -1689,7 +1689,7 @@ entries:
     version: 0.6.2
   - apiVersion: v2
     appVersion: v0.5.4
-    created: "2023-07-21T16:18:43.512318161+05:30"
+    created: "2023-07-21T18:16:05.652765213+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: d9fface330ded257bf3718d38121a31df60535fc39c58b5de4553c392edf9686
@@ -1707,7 +1707,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v0.5.3
-    created: "2023-07-21T16:18:43.511674175+05:30"
+    created: "2023-07-21T18:16:05.652449807+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: 047137b1680855c65fe2b4c80b048fcddcf0d481bcbb960062f8946083c6b040
@@ -1725,7 +1725,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.4.3
-    created: "2023-07-21T16:18:43.510976344+05:30"
+    created: "2023-07-21T18:16:05.652159711+05:30"
     description: The core Atomix controller implements the Atomix controller API and
       provides Database and Partition CRDs
     digest: ab40f6646b3be5221bb256d36fc24ffe2fcda5592f48d8aa2e5d882fccbd7497
@@ -1743,7 +1743,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-07-21T16:18:43.510474094+05:30"
+    created: "2023-07-21T18:16:05.651976495+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 3be999be713a174b78750eea3ae94c2dcfbdf55476f0b35bc5585d012c431251
@@ -1761,7 +1761,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.4
-    created: "2023-07-21T16:18:43.509943553+05:30"
+    created: "2023-07-21T18:16:05.651758701+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 0b47b415418cb2ac60350986a08f222e1bfd65fe058f6579020cdef085016fcb
@@ -1779,7 +1779,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: v0.4.3
-    created: "2023-07-21T16:18:43.509419586+05:30"
+    created: "2023-07-21T18:16:05.651444244+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 5a9cfaa667142b2aada4dd9fe3b428794b4ac050ba11f9aeb88d716f7fdea45b
@@ -1797,7 +1797,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: v0.4.2
-    created: "2023-07-21T16:18:43.508848059+05:30"
+    created: "2023-07-21T18:16:05.650483234+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 53057d9ea04be567d0847c3977550407af487872e0a54a0c25ba4ea12f7188c3
@@ -1815,7 +1815,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.507849505+05:30"
+    created: "2023-07-21T18:16:05.650114613+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 2096691ebca6f18d0a8f849227de3ad0630b4b8f7923277575ab95c90eb5b6ff
@@ -1833,7 +1833,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.499675434+05:30"
+    created: "2023-07-21T18:16:05.649836724+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 83d1e65681899221236ca40f8e4ef931419ee6a13144aaa5a2028d1a7cb1c5bc
@@ -1851,7 +1851,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-07-21T16:18:43.497666786+05:30"
+    created: "2023-07-21T18:16:05.649573917+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: a94e5479b5231b630fd7098f43560fca0f9440be82ee1f475b0e0e33902ffc20
@@ -1869,7 +1869,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.2.1
-    created: "2023-07-21T16:18:43.49704169+05:30"
+    created: "2023-07-21T18:16:05.649310732+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 1bdc6d11dbb6a09394a3852bf3fa962fdae3fe1fe75bd41d2d2cfc82b66647da
@@ -1887,7 +1887,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: v0.2.0
-    created: "2023-07-21T16:18:43.496411392+05:30"
+    created: "2023-07-21T18:16:05.649027017+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 2399a2a5025d99e24da7ee3951a81de69066f1d905d5a397a7ce78de8d97146a
@@ -1905,7 +1905,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: v0.1.3
-    created: "2023-07-21T16:18:43.495714662+05:30"
+    created: "2023-07-21T18:16:05.648741632+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 76117d0cff931eb3bcac167a5fb7c891343716a39451a775a00b8f4c4e9c05a7
@@ -1923,7 +1923,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: v0.1.2
-    created: "2023-07-21T16:18:43.495156526+05:30"
+    created: "2023-07-21T18:16:05.648525076+05:30"
     description: The core Atomix controller provides custom resources for Atomix data
       stores
     digest: 1ed5485dbed7e61f271c5d15023cc33d1381f95540649c4f0cba1d45310b1975
@@ -1942,7 +1942,7 @@ entries:
   atomix-pod-memory-controller:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2023-07-21T16:18:43.521205815+05:30"
+    created: "2023-07-21T18:16:05.658190783+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: e920d8e74bcd2e78f0f880efe05e653730e64d417882102642bd06c17b33493c
@@ -1961,7 +1961,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v0.4.2
-    created: "2023-07-21T16:18:43.520912306+05:30"
+    created: "2023-07-21T18:16:05.657992405+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: 4f4a8cd2812c80147e401e1cb6e8004ae588486d67a75a9ddcad46741b726ffa
@@ -1980,7 +1980,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.520578838+05:30"
+    created: "2023-07-21T18:16:05.657778125+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: 53e2349ebdd9497936c0b1e1f1b5804257349a61221592296dd5da1077d86150
@@ -1999,7 +1999,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.520253651+05:30"
+    created: "2023-07-21T18:16:05.657547512+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: 22aa1fa29dcf0efc0c714b02d9ae00b308a4902413e9d2faa0b00033363d4342
@@ -2018,7 +2018,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.2
-    created: "2023-07-21T16:18:43.519931871+05:30"
+    created: "2023-07-21T18:16:05.657278425+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: dba004dc9cd5d978fd6f97ab779dfda8c6032f8265bbd160c88e6d1f1206a1b8
@@ -2037,7 +2037,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2023-07-21T16:18:43.519550185+05:30"
+    created: "2023-07-21T18:16:05.657012141+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: b0c41968b26884326b9ef897b98e157c397b27f39c488f1c40fa0c8f22a2e360
@@ -2056,7 +2056,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-07-21T16:18:43.519244436+05:30"
+    created: "2023-07-21T18:16:05.656541597+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: 1cd54ba71d1ed2bd888e3e95514605353c0fc7572fadb5226eed3a71e6921449
@@ -2075,7 +2075,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.2.3
-    created: "2023-07-21T16:18:43.518942901+05:30"
+    created: "2023-07-21T18:16:05.656040571+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: 1116ecaa718388b4ee38a495044bbc116f707d1d93432b81b9894d146592c0fb
@@ -2094,7 +2094,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: v0.2.2
-    created: "2023-07-21T16:18:43.518535353+05:30"
+    created: "2023-07-21T18:16:05.655872285+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: 7e1522c4b034b98eadba6717e7d2434bb2d62ca93059cf44a06688a998e904e6
@@ -2113,7 +2113,7 @@ entries:
     version: 0.2.2
   - apiVersion: v2
     appVersion: v0.2.1
-    created: "2023-07-21T16:18:43.518196887+05:30"
+    created: "2023-07-21T18:16:05.655702678+05:30"
     description: The pod memory controller extends the Kubernetes API with custom
       resources for pod-local shared memory stores.
     digest: f2517f242924b131d2ff0fd5872ba963632ebac13c6e83392ee8e392be04f85d
@@ -2133,7 +2133,7 @@ entries:
   atomix-raft-controller:
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.528746494+05:30"
+    created: "2023-07-21T18:16:05.663124825+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: ffcef1de7f11f8c0ad1a4dd97467da72e3cb98039fa93447a6874c08faf62d26
@@ -2154,7 +2154,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.1
-    created: "2023-07-21T16:18:43.528331172+05:30"
+    created: "2023-07-21T18:16:05.662829375+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 76177f69364a0081e59ab66e87c16d0c4ef9a2b94c8cff180fac78b136eddcef
@@ -2175,7 +2175,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-07-21T16:18:43.527887826+05:30"
+    created: "2023-07-21T18:16:05.662485288+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: f02811441b557f81ac304e35364eeed44906ca98716f01719c299f81129ac5d9
@@ -2196,7 +2196,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.3
-    created: "2023-07-21T16:18:43.527407973+05:30"
+    created: "2023-07-21T18:16:05.661730013+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 0a1e41b614df3b0d5ea58b862d39752305cf0eb3e84bca0ee6207be79051837b
@@ -2217,7 +2217,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: v0.5.2
-    created: "2023-07-21T16:18:43.527008429+05:30"
+    created: "2023-07-21T18:16:05.661373986+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 2d4d0d646b3f0ad2e572d612ae287bd9ed3906f1dede85942f4fafc582a049c3
@@ -2238,7 +2238,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: v0.5.1
-    created: "2023-07-21T16:18:43.526486617+05:30"
+    created: "2023-07-21T18:16:05.661083701+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: de64ded7ea4f0fa6cec4863ab37e6a3778c9013ce30865177b544f35b94c2e89
@@ -2259,7 +2259,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-07-21T16:18:43.525788439+05:30"
+    created: "2023-07-21T18:16:05.660820008+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 6912e4ef0ec18c1c62e1c8033234215ecfb8d8936f748494f05b919856508fc5
@@ -2280,7 +2280,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.524975016+05:30"
+    created: "2023-07-21T18:16:05.660554633+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 32689973756e802b1abe7f0d4d19bf0a76ff1ebbb9cc9e9af9ee392d3fed0f06
@@ -2301,7 +2301,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.524602877+05:30"
+    created: "2023-07-21T18:16:05.660317123+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: b26af231c7f69c1c019eec898a3e020b71c5706619c285d9e969c3b69e870dbc
@@ -2322,7 +2322,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.4
-    created: "2023-07-21T16:18:43.524256963+05:30"
+    created: "2023-07-21T18:16:05.660074024+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: e0190c8d8982d97636c4237f9da4d4bc2d7215b2f72f3a876f9a9f1cdd59d37f
@@ -2343,7 +2343,7 @@ entries:
     version: 0.3.4
   - apiVersion: v2
     appVersion: v0.3.3
-    created: "2023-07-21T16:18:43.523690635+05:30"
+    created: "2023-07-21T18:16:05.65981701+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 22930dc8166361339dfe52cc65d224a86e34866bbe9ea8b3dc5b326fed865e7a
@@ -2364,7 +2364,7 @@ entries:
     version: 0.3.3
   - apiVersion: v2
     appVersion: v0.3.2
-    created: "2023-07-21T16:18:43.52315607+05:30"
+    created: "2023-07-21T18:16:05.659561517+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 85d2f809c5fbb6ce16fb0c135a6c9bd9ce3919aa43da79edfa2c78fe68e05e00
@@ -2385,7 +2385,7 @@ entries:
     version: 0.3.2
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2023-07-21T16:18:43.522846294+05:30"
+    created: "2023-07-21T18:16:05.659303816+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 16e48fe7fb1bc1b303e601bc107f893f9ac9970e85fa0394006dc3dbeb94187b
@@ -2406,7 +2406,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: v0.2.5
-    created: "2023-07-21T16:18:43.522504468+05:30"
+    created: "2023-07-21T18:16:05.659087795+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: a6c6e67e0378e670b83f74f66dabd5f3f629dd70532ffce7b2a201dd0e8f3dcd
@@ -2427,7 +2427,7 @@ entries:
     version: 0.2.5
   - apiVersion: v2
     appVersion: v0.2.4
-    created: "2023-07-21T16:18:43.522233775+05:30"
+    created: "2023-07-21T18:16:05.658870404+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 6eca8c4c02bb768839c07173875c1f771d3eebc9297d9c9bbf7956b0d43b2ae6
@@ -2448,7 +2448,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: v0.2.3
-    created: "2023-07-21T16:18:43.521892521+05:30"
+    created: "2023-07-21T18:16:05.658649375+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 8186ef9d163f6de92d6631a4a8e154df6f242912e3c01863b39a43acb84c6590
@@ -2469,7 +2469,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: v0.2.1
-    created: "2023-07-21T16:18:43.521545991+05:30"
+    created: "2023-07-21T18:16:05.658423149+05:30"
     description: The Raft controller extends the Kubernetes API with custom resources
       for Raft stores.
     digest: 6b026f7a7eb1dc87c060caafbd7305208124a3f3cf092e44e503365bc7b3683e
@@ -2491,7 +2491,7 @@ entries:
   atomix-raft-storage:
   - apiVersion: v2
     appVersion: v0.9.20
-    created: "2023-07-21T16:18:43.538690279+05:30"
+    created: "2023-07-21T18:16:05.668496446+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: c2e3b3089ea3bba5404dc5f75fc8bd6ad43caaceb2ffdd77cfee40c65c42ef94
     home: https://cloud.atomix.io
@@ -2510,7 +2510,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: v0.9.19
-    created: "2023-07-21T16:18:43.538127688+05:30"
+    created: "2023-07-21T18:16:05.668198068+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 6d275892ba342d2eaeb1604959cea2812ab568dc0c695d28cbbf430318c01208
     home: https://cloud.atomix.io
@@ -2529,7 +2529,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: v0.9.18
-    created: "2023-07-21T16:18:43.537542747+05:30"
+    created: "2023-07-21T18:16:05.667867365+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 89a136b8ee56c7f475c436528b6a148e625a562499e321f5e9befb5e8efeb00c
     home: https://cloud.atomix.io
@@ -2548,7 +2548,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: v0.9.17
-    created: "2023-07-21T16:18:43.537010952+05:30"
+    created: "2023-07-21T18:16:05.666951207+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: d2f77fae3a50d8cd62d74a3b9f056a3c4532fae8a875bc40ecb615862a44b143
     home: https://cloud.atomix.io
@@ -2567,7 +2567,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: v0.9.16
-    created: "2023-07-21T16:18:43.536529308+05:30"
+    created: "2023-07-21T18:16:05.666734297+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 2888beb703f598f24898c60346d7d6ade4ddef60f91badd3508867e8086e82af
     home: https://cloud.atomix.io
@@ -2586,7 +2586,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: v0.9.15
-    created: "2023-07-21T16:18:43.536049232+05:30"
+    created: "2023-07-21T18:16:05.666504662+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: ec3d3eee546285f85ddc0638c63039099938e32830e16711131f8f12c421268a
     home: https://cloud.atomix.io
@@ -2605,7 +2605,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: v0.9.14
-    created: "2023-07-21T16:18:43.535540099+05:30"
+    created: "2023-07-21T18:16:05.666264212+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: a8f71d0e51cbc7a8ba113a2054458e02fa8726ee7c454636b3cd9b99e4d59498
     home: https://cloud.atomix.io
@@ -2624,7 +2624,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: v0.9.13
-    created: "2023-07-21T16:18:43.533761518+05:30"
+    created: "2023-07-21T18:16:05.665800335+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 3102cc682e5d7b16ad54f445040c208851b4c33629b1cc05e0766d333c252135
     home: https://cloud.atomix.io
@@ -2643,7 +2643,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: v0.9.12
-    created: "2023-07-21T16:18:43.533315321+05:30"
+    created: "2023-07-21T18:16:05.665559839+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: acff77a05e703b91952eb49b6780d3bc8d335b7d0dd80958d0b8b18e4cce4ae6
     home: https://cloud.atomix.io
@@ -2662,7 +2662,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: v0.9.11
-    created: "2023-07-21T16:18:43.532839362+05:30"
+    created: "2023-07-21T18:16:05.665324899+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 5ef900b347853eda68d9248617ae65d9c6c99e9cad4a5f99eb364013e61e4997
     home: https://cloud.atomix.io
@@ -2681,7 +2681,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: v0.9.10
-    created: "2023-07-21T16:18:43.532369018+05:30"
+    created: "2023-07-21T18:16:05.665085212+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: be2e7538adb6ef1daf7d8c2b880aae6f5311f67ff2a3d575ec9beb2076b42819
     home: https://cloud.atomix.io
@@ -2700,7 +2700,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: v0.9.8
-    created: "2023-07-21T16:18:43.531935493+05:30"
+    created: "2023-07-21T18:16:05.664867466+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 783d4b5fcf78c2fdc8b626c228886637bc0026639bfeb6059a9849b9e214405d
     home: https://cloud.atomix.io
@@ -2719,7 +2719,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: v0.9.7
-    created: "2023-07-21T16:18:43.531490045+05:30"
+    created: "2023-07-21T18:16:05.664649023+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 1445b8f11b35ea0da32ad4d6eaf9713dc85adf29f3dd22cddbc7f59c67c75923
     home: https://cloud.atomix.io
@@ -2738,7 +2738,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: v0.9.2
-    created: "2023-07-21T16:18:43.531076966+05:30"
+    created: "2023-07-21T18:16:05.664435099+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 26839c1a5cb7cdfb19d753888614fd721f224d42f34bafe8f6c22049879c563c
     home: https://cloud.atomix.io
@@ -2757,7 +2757,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: v0.9
-    created: "2023-07-21T16:18:43.530675966+05:30"
+    created: "2023-07-21T18:16:05.66421918+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: ef85e1bd73466ef0da255de7d6074a8e3b522bcdc89ce28d7b0c284d88c2c16b
     home: https://cloud.atomix.io
@@ -2776,7 +2776,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: v0.9.4
-    created: "2023-07-21T16:18:43.530293854+05:30"
+    created: "2023-07-21T18:16:05.664000313+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 5cea7bef5e4da0083859ea35a4fcf23cc7af66bca6e683490feb1900f45a0a3b
     home: https://cloud.atomix.io
@@ -2795,7 +2795,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: v0.9.3
-    created: "2023-07-21T16:18:43.529900613+05:30"
+    created: "2023-07-21T18:16:05.663776741+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: c335d556242b642bfddc3a4de3c30af022307d5e73c9c9bdc0fd091731bfc54f
     home: https://cloud.atomix.io
@@ -2814,7 +2814,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: v0.9.2
-    created: "2023-07-21T16:18:43.542688853+05:30"
+    created: "2023-07-21T18:16:05.669997565+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: e9a72b3c7088ef2a0b985fbcf84983c8dc3b9d9b344594ceaf6f8722b1a95317
     home: https://cloud.atomix.io
@@ -2833,7 +2833,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: v0.8.3
-    created: "2023-07-21T16:18:43.542059073+05:30"
+    created: "2023-07-21T18:16:05.669783051+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 2229561d74993b6dcef0d4b0942f6b3360ba2c0ca1f8a288fba241a5cb3112df
     home: https://cloud.atomix.io
@@ -2852,7 +2852,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: v0.8.2
-    created: "2023-07-21T16:18:43.541344715+05:30"
+    created: "2023-07-21T18:16:05.669563713+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: afad99ef5125c09f9adce793b5b89d9eed7876105efcf5d594da7d2412a0e07a
     home: https://cloud.atomix.io
@@ -2871,7 +2871,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.8.1
-    created: "2023-07-21T16:18:43.540761685+05:30"
+    created: "2023-07-21T18:16:05.669345067+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 0cbecc668d428693f43f9fdc139659359909fe1a9226dff042a351b984458f71
     home: https://cloud.atomix.io
@@ -2890,7 +2890,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2023-07-21T16:18:43.540198566+05:30"
+    created: "2023-07-21T18:16:05.669126176+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 2aec2b3cc2ae6609349a65fe26dfce89e04071344f26ea55632082d92b2f9129
     home: https://cloud.atomix.io
@@ -2909,7 +2909,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.539660713+05:30"
+    created: "2023-07-21T18:16:05.668903964+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 32f4a934abd8ebbf87df21d14594b0aa71c519ad19a69a6eeb093963b9a55b7b
     home: https://cloud.atomix.io
@@ -2928,7 +2928,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: v0.6.10
-    created: "2023-07-21T16:18:43.539180241+05:30"
+    created: "2023-07-21T18:16:05.668704269+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 188158b4dbc8b62f647aefba5b615c57235b873fdf4a7c2488c728113ac5fa42
     home: https://cloud.atomix.io
@@ -2947,7 +2947,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: v0.6.9
-    created: "2023-07-21T16:18:43.535020996+05:30"
+    created: "2023-07-21T18:16:05.66601698+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 761ee5e53d7288a963a0d4e4bdcdcae0114ef54b74b692651838de735619bbc3
     home: https://cloud.atomix.io
@@ -2966,7 +2966,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: v0.6.7
-    created: "2023-07-21T16:18:43.529504951+05:30"
+    created: "2023-07-21T18:16:05.663550978+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 7e85efebfdf2d5ed74bbb4d14c5c386cf65fdaca733badb32860a8ae4c07b879
     home: https://cloud.atomix.io
@@ -2985,7 +2985,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: v0.6.7
-    created: "2023-07-21T16:18:43.529104736+05:30"
+    created: "2023-07-21T18:16:05.663345711+05:30"
     description: Atomix storage plugin for multi-Raft stores
     digest: 0339d90004860646b530ebc0ea05151a852070b8686b3052feffbba606c568c4
     home: https://cloud.atomix.io
@@ -3004,7 +3004,7 @@ entries:
     version: 0.1.0
   atomix-runtime:
   - apiVersion: v2
-    created: "2023-07-21T16:18:43.562236889+05:30"
+    created: "2023-07-21T18:16:05.678677589+05:30"
     dependencies:
     - alias: controller
       name: atomix-runtime-controller
@@ -3041,7 +3041,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: v0.1.9
-    created: "2023-07-21T16:18:43.560244716+05:30"
+    created: "2023-07-21T18:16:05.67778661+05:30"
     dependencies:
     - alias: controller
       name: atomix-runtime-controller
@@ -3078,7 +3078,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: v0.1.8
-    created: "2023-07-21T16:18:43.558733148+05:30"
+    created: "2023-07-21T18:16:05.676999282+05:30"
     dependencies:
     - alias: controller
       name: atomix-runtime-controller
@@ -3115,7 +3115,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: v0.1.7
-    created: "2023-07-21T16:18:43.557103883+05:30"
+    created: "2023-07-21T18:16:05.676153394+05:30"
     dependencies:
     - alias: controller
       name: atomix-runtime-controller
@@ -3152,7 +3152,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2023-07-21T16:18:43.555122202+05:30"
+    created: "2023-07-21T18:16:05.675370511+05:30"
     dependencies:
     - alias: controller
       name: atomix-runtime-controller
@@ -3189,7 +3189,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: v0.1.5
-    created: "2023-07-21T16:18:43.55311114+05:30"
+    created: "2023-07-21T18:16:05.674560597+05:30"
     dependencies:
     - alias: controller
       name: atomix-runtime-controller
@@ -3226,7 +3226,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: v0.1.4
-    created: "2023-07-21T16:18:43.551121339+05:30"
+    created: "2023-07-21T18:16:05.672788891+05:30"
     dependencies:
     - alias: runtime
       name: atomix-runtime-controller
@@ -3263,7 +3263,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: v0.1.3
-    created: "2023-07-21T16:18:43.549142127+05:30"
+    created: "2023-07-21T18:16:05.672002096+05:30"
     dependencies:
     - alias: runtime
       name: atomix-runtime-controller
@@ -3290,7 +3290,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: v0.1.2
-    created: "2023-07-21T16:18:43.546967959+05:30"
+    created: "2023-07-21T18:16:05.671494985+05:30"
     dependencies:
     - alias: runtime-controller
       name: atomix-runtime-controller
@@ -3317,7 +3317,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: v0.1.1
-    created: "2023-07-21T16:18:43.545524449+05:30"
+    created: "2023-07-21T18:16:05.671014311+05:30"
     dependencies:
     - alias: runtime-controller
       name: atomix-runtime-controller
@@ -3344,7 +3344,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2023-07-21T16:18:43.544031578+05:30"
+    created: "2023-07-21T18:16:05.670521686+05:30"
     dependencies:
     - alias: runtime-controller
       name: atomix-runtime-controller
@@ -3372,7 +3372,7 @@ entries:
   atomix-runtime-controller:
   - apiVersion: v2
     appVersion: v0.8.0
-    created: "2023-07-21T16:18:43.573466429+05:30"
+    created: "2023-07-21T18:16:05.693354584+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 4ff099ea101f916acc5a2b9face098b80f6bd7d586d754681a3496959a59abbe
@@ -3390,7 +3390,7 @@ entries:
     version: 1.7.0
   - apiVersion: v2
     appVersion: v0.7.7
-    created: "2023-07-21T16:18:43.572913863+05:30"
+    created: "2023-07-21T18:16:05.693000806+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: c150e2b427a5c182f2731e9260531bd648087a8ddb9cc0aafe0c367c44f303fb
@@ -3408,7 +3408,7 @@ entries:
     version: 1.6.7
   - apiVersion: v2
     appVersion: v0.7.7
-    created: "2023-07-21T16:18:43.572349918+05:30"
+    created: "2023-07-21T18:16:05.69268043+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: ca2c7bab4192be1376635d80e88265f0d08ffae314eb434b250bed3624e5867d
@@ -3426,7 +3426,7 @@ entries:
     version: 1.6.6
   - apiVersion: v2
     appVersion: v0.7.7
-    created: "2023-07-21T16:18:43.57101864+05:30"
+    created: "2023-07-21T18:16:05.692371886+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 53aa72a927451856eea82f748547c77c4649dc88e49e3d7cae30199728a42903
@@ -3444,7 +3444,7 @@ entries:
     version: 1.6.5
   - apiVersion: v2
     appVersion: v0.7.6
-    created: "2023-07-21T16:18:43.570515632+05:30"
+    created: "2023-07-21T18:16:05.69206095+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: c006a65ca5dfd5e1f321e3243af37dc662b6fc34e542b216754ed69dfeca91bc
@@ -3462,7 +3462,7 @@ entries:
     version: 1.6.4
   - apiVersion: v2
     appVersion: v0.7.5
-    created: "2023-07-21T16:18:43.569962668+05:30"
+    created: "2023-07-21T18:16:05.69175098+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 86cf4ef44c0c30afbb4aef0b48116819ffd193f81363ddbee719b42247f627c9
@@ -3480,7 +3480,7 @@ entries:
     version: 1.6.3
   - apiVersion: v2
     appVersion: v0.7.4
-    created: "2023-07-21T16:18:43.569364996+05:30"
+    created: "2023-07-21T18:16:05.691439759+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 1fc3d6aaf46e86878a65731a8aec057009889c2bc8d35fda4776ce82c8354598
@@ -3498,7 +3498,7 @@ entries:
     version: 1.6.2
   - apiVersion: v2
     appVersion: v0.7.3
-    created: "2023-07-21T16:18:43.568975584+05:30"
+    created: "2023-07-21T18:16:05.691128259+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 7d2c6442737bdedfec599b882ad799992f3a068319e6aab40face9ffac9b979b
@@ -3516,7 +3516,7 @@ entries:
     version: 1.6.1
   - apiVersion: v2
     appVersion: v0.7.2
-    created: "2023-07-21T16:18:43.568574874+05:30"
+    created: "2023-07-21T18:16:05.690820285+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: c34ce7fa975f6bf57998ca48f8bf3726ea10441c870f4f9bc24e6e8b091f00a1
@@ -3534,7 +3534,7 @@ entries:
     version: 1.6.0
   - apiVersion: v2
     appVersion: v0.9.x
-    created: "2023-07-21T16:18:43.568130048+05:30"
+    created: "2023-07-21T18:16:05.690541804+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: c2b20dfeae6aef84c9e8c49a699fbd31e52bfd098d1794301694cd9ec8d8c00a
@@ -3552,7 +3552,7 @@ entries:
     version: 1.5.3
   - apiVersion: v2
     appVersion: v0.9.x
-    created: "2023-07-21T16:18:43.567675097+05:30"
+    created: "2023-07-21T18:16:05.690303985+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 3379906477e3c03296cfa73aa8ee4a7d46d372daaf32f455e0e77886827e52a5
@@ -3570,7 +3570,7 @@ entries:
     version: 1.5.2
   - apiVersion: v2
     appVersion: v0.8.x
-    created: "2023-07-21T16:18:43.567221054+05:30"
+    created: "2023-07-21T18:16:05.690053309+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: bbfe21ed28108622b12f0310d2751710bfaa652b4c9bb3afc0ca657f79b886c9
@@ -3588,7 +3588,7 @@ entries:
     version: 1.5.1
   - apiVersion: v2
     appVersion: v0.8.x
-    created: "2023-07-21T16:18:43.566768806+05:30"
+    created: "2023-07-21T18:16:05.689814078+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 276665d10457badece4b3dae1cad8ec829d0ae3bb5015a0ee977ec0f351d1ce0
@@ -3606,7 +3606,7 @@ entries:
     version: 1.5.0
   - apiVersion: v2
     appVersion: v0.8.x
-    created: "2023-07-21T16:18:43.566333953+05:30"
+    created: "2023-07-21T18:16:05.689576169+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 296e8909b135317be6276f47a45d13b8052df0bac3f95b17053c7fb610be1cb8
@@ -3624,7 +3624,7 @@ entries:
     version: 1.4.3
   - apiVersion: v2
     appVersion: v0.7.x
-    created: "2023-07-21T16:18:43.565968884+05:30"
+    created: "2023-07-21T18:16:05.6893342+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: db8e405cf42ac59c504f49181cb15aeae93fc1b558abf185414a4ddab92f3478
@@ -3642,7 +3642,7 @@ entries:
     version: 1.4.2
   - apiVersion: v2
     appVersion: v0.6.x
-    created: "2023-07-21T16:18:43.565617698+05:30"
+    created: "2023-07-21T18:16:05.689089314+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 2bd8f55f0f9ccabbdb3a2ca1a0ad1a0fa082922ebcdf391f791db1a42a0cc565
@@ -3660,7 +3660,7 @@ entries:
     version: 1.4.1
   - apiVersion: v2
     appVersion: v0.6.x
-    created: "2023-07-21T16:18:43.565268595+05:30"
+    created: "2023-07-21T18:16:05.688837827+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: e3efebbd1aff883d2b8d05290c8f4e6860ffb4d6f61062d2c4395d9605a339be
@@ -3678,7 +3678,7 @@ entries:
     version: 1.4.0
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.56491518+05:30"
+    created: "2023-07-21T18:16:05.688582212+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: a5dbd589885a0561499df89ba7bde22e53c08cc0f3e42e2cd7ab3157d242eef4
@@ -3696,7 +3696,7 @@ entries:
     version: 1.3.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.564478748+05:30"
+    created: "2023-07-21T18:16:05.688313125+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: f717bf63aa35b1861a0d85dbddc5dbf29c297d71308c89c34f80bf34be57a2ba
@@ -3714,7 +3714,7 @@ entries:
     version: 1.3.0
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2023-07-21T16:18:43.564115552+05:30"
+    created: "2023-07-21T18:16:05.680138812+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 33291382d913e5b886692b5e4aaf2ce5b9320cb59bb80f18787ad6e96534481e
@@ -3732,7 +3732,7 @@ entries:
     version: 1.2.0
   - apiVersion: v2
     appVersion: v0.1.1
-    created: "2023-07-21T16:18:43.563760949+05:30"
+    created: "2023-07-21T18:16:05.679373732+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 5799fe24a835e4f698c2796fb737ff8314d29b772e48db2779888f1beb9cc413
@@ -3750,7 +3750,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: v0.1.1
-    created: "2023-07-21T16:18:43.563384912+05:30"
+    created: "2023-07-21T18:16:05.679151105+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 5cce67cc90c6bdfc19717d012e5440b46689bd8c95eaad3d66574925c6e086c6
@@ -3768,7 +3768,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v0.6.2
-    created: "2023-07-21T16:18:43.562839479+05:30"
+    created: "2023-07-21T18:16:05.678923976+05:30"
     description: The core Atomix runtime controller implements the Atomix Cloud runtime
       API
     digest: 980729812af17d5bf15d8cc25faa926fa240849f166e3bb5d8be8bd2230de558
@@ -3787,7 +3787,7 @@ entries:
   atomix-shared-memory-controller:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2023-07-21T16:18:43.584305094+05:30"
+    created: "2023-07-21T18:16:05.699048876+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: f5643c70ba9b497681343e4b27dc766778bd51fb8431c97dc436144e4bb0af7d
@@ -3807,7 +3807,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.583572459+05:30"
+    created: "2023-07-21T18:16:05.698575533+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: b978c91a875c567e50915c87cbe5c0b48048259d8046338a2185fd86c58a5499
@@ -3827,7 +3827,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.1
-    created: "2023-07-21T16:18:43.582653673+05:30"
+    created: "2023-07-21T18:16:05.698107406+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 0fec1147928e10ffd98b585e0d1e1a5a79fb97104e817ab7cb6aab4d4694a403
@@ -3847,7 +3847,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-07-21T16:18:43.582019412+05:30"
+    created: "2023-07-21T18:16:05.697682816+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: a73ab9dd8202dc28bd0a7653fab4a31f553ae34f4fb502cbc1da3995926dbf86
@@ -3867,7 +3867,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.3
-    created: "2023-07-21T16:18:43.581306799+05:30"
+    created: "2023-07-21T18:16:05.697394197+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 8dbf657d6fae619c7412104695e0da04584332fc6419c8bfa0e9fd8cd81790fe
@@ -3887,7 +3887,7 @@ entries:
     version: 0.5.3
   - apiVersion: v2
     appVersion: v0.5.2
-    created: "2023-07-21T16:18:43.58056647+05:30"
+    created: "2023-07-21T18:16:05.697137725+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: f4812a4304938327b6a4733a22a38aa323e49d8415d7701c28a09b129b230ee7
@@ -3907,7 +3907,7 @@ entries:
     version: 0.5.2
   - apiVersion: v2
     appVersion: v0.5.1
-    created: "2023-07-21T16:18:43.579842042+05:30"
+    created: "2023-07-21T18:16:05.696888554+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 8c47bc81c8365ae1734536387dbbc66e86e238b0789c52ced11b2298ef52e009
@@ -3927,7 +3927,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-07-21T16:18:43.579126424+05:30"
+    created: "2023-07-21T18:16:05.696639183+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 9424198c9557d0fefe9892242d7c9f1fc2d7424c7b02ff8ddae1d2da8b416544
@@ -3947,7 +3947,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.2
-    created: "2023-07-21T16:18:43.578385719+05:30"
+    created: "2023-07-21T18:16:05.696377258+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 12051e381b74fd58f7ca638435ac9183c23aaaaf418ea7131c5cb0f6bd4bb968
@@ -3967,7 +3967,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.57774809+05:30"
+    created: "2023-07-21T18:16:05.696066175+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 89ea191f11c96d133e285768533ae63cc4b567b97144fafbdae38243b89331a3
@@ -3987,7 +3987,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.576992203+05:30"
+    created: "2023-07-21T18:16:05.695710696+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 3d751c5c461232378f131aa91a3c5205de99522dd076542015d96182bcff5864
@@ -4007,7 +4007,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2023-07-21T16:18:43.576276992+05:30"
+    created: "2023-07-21T18:16:05.695295093+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 6212932e3b7b1564e2c3aceaa9262863459d9e881df8c1c0ede5133b79c62808
@@ -4027,7 +4027,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-07-21T16:18:43.575743644+05:30"
+    created: "2023-07-21T18:16:05.694616531+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: a48e6277dae14f6e2f7b073995f37376bc5ffe34a3eb04a2ff434664f34f9dc1
@@ -4047,7 +4047,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: v0.2.4
-    created: "2023-07-21T16:18:43.575161528+05:30"
+    created: "2023-07-21T18:16:05.694179123+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: c06396a39337274bfad53f5f2de751f420c8d52596657ecb044d98319b1cedea
@@ -4067,7 +4067,7 @@ entries:
     version: 0.2.4
   - apiVersion: v2
     appVersion: v0.2.3
-    created: "2023-07-21T16:18:43.5746143+05:30"
+    created: "2023-07-21T18:16:05.693889242+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 3526ba463569578737a8c431f3ba3059286c9ef9b7b019e4d790d5852542660c
@@ -4087,7 +4087,7 @@ entries:
     version: 0.2.3
   - apiVersion: v2
     appVersion: v0.2.2
-    created: "2023-07-21T16:18:43.574066678+05:30"
+    created: "2023-07-21T18:16:05.693619984+05:30"
     description: The shared memory controller extends the Kubernetes API with custom
       resources for memory stores.
     digest: 1faee54141c3b4f088bdadf6c843c4c009891090bf503f194921371dab5b303b
@@ -4108,7 +4108,7 @@ entries:
   atomix-sidecar-controller:
   - apiVersion: v2
     appVersion: v1.1.3
-    created: "2023-07-21T16:18:43.596901467+05:30"
+    created: "2023-07-21T18:16:05.705205832+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 30ebaa797f86e6f423d25cbc3f3f38ebeafe43546789e415062fa8773f6f8758
@@ -4126,7 +4126,7 @@ entries:
     version: 1.1.3
   - apiVersion: v2
     appVersion: v1.1.2
-    created: "2023-07-21T16:18:43.596490311+05:30"
+    created: "2023-07-21T18:16:05.705024438+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: b3eb1554637e958ce2e6da1f681b5facc0749731ad050abd839dc8e9371bed4c
@@ -4144,7 +4144,7 @@ entries:
     version: 1.1.2
   - apiVersion: v2
     appVersion: v1.1.1
-    created: "2023-07-21T16:18:43.59604973+05:30"
+    created: "2023-07-21T18:16:05.704844358+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: a8bda02d0d908210092c84e3faf2fc3a3a3650b91765e929c0e0c8ea87523c47
@@ -4162,7 +4162,7 @@ entries:
     version: 1.1.1
   - apiVersion: v2
     appVersion: v1.1.0
-    created: "2023-07-21T16:18:43.595575537+05:30"
+    created: "2023-07-21T18:16:05.704663255+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 22d39762f3a4876470eb1e2a72f44abc387addd607ae7f028352b4ca551c1582
@@ -4180,7 +4180,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2023-07-21T16:18:43.595094932+05:30"
+    created: "2023-07-21T18:16:05.70448113+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: e6d9ac5c30ad1a06e30ad17e54fb7c59f281c8adaf45c86c9dfc1930f3571078
@@ -4198,7 +4198,7 @@ entries:
     version: 1.0.0
   - apiVersion: v2
     appVersion: v0.7.0
-    created: "2023-07-21T16:18:43.594613799+05:30"
+    created: "2023-07-21T18:16:05.704296983+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 5199a91b7ebd78e55d1aa957713270c4a582f6e2e345786c0115b8abc6a8bfc3
@@ -4216,7 +4216,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: v0.6.1
-    created: "2023-07-21T16:18:43.594137924+05:30"
+    created: "2023-07-21T18:16:05.704112609+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: b29ba0f2b599c60d4269d05bdf03946acc55b77aba179712aa899d320f448635
@@ -4234,7 +4234,7 @@ entries:
     version: 0.6.1
   - apiVersion: v2
     appVersion: v0.6.0
-    created: "2023-07-21T16:18:43.593654245+05:30"
+    created: "2023-07-21T18:16:05.703919704+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 537104dedede45d45f45db340e314397f7a778c8836247810762a80f54bdcc32
@@ -4252,7 +4252,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: v0.5.0
-    created: "2023-07-21T16:18:43.593117084+05:30"
+    created: "2023-07-21T18:16:05.703721433+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: fffae64f3b8bfdb68016e6bb672b6545deff6677533914512f2faf9e221bf3c6
@@ -4270,7 +4270,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: v0.4.9
-    created: "2023-07-21T16:18:43.592448196+05:30"
+    created: "2023-07-21T18:16:05.703486767+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 290207b23d55fdf181329f21d6e845d2cefc026ff4e9a9ece0171cd4e0401dcc
@@ -4288,7 +4288,7 @@ entries:
     version: 0.4.9
   - apiVersion: v2
     appVersion: v0.4.8
-    created: "2023-07-21T16:18:43.591832975+05:30"
+    created: "2023-07-21T18:16:05.703250319+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: c3852ab63d78f0e5e66797c26ce989e2d78dfd7a4c77fc1e863677c8efc440e5
@@ -4306,7 +4306,7 @@ entries:
     version: 0.4.8
   - apiVersion: v2
     appVersion: v0.4.7
-    created: "2023-07-21T16:18:43.591158011+05:30"
+    created: "2023-07-21T18:16:05.702970629+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 111fe02d6b923a6bf8793b78c0a3985000a0a8480458e7afd40a52e290eb90c5
@@ -4324,7 +4324,7 @@ entries:
     version: 0.4.7
   - apiVersion: v2
     appVersion: v0.4.6
-    created: "2023-07-21T16:18:43.590475003+05:30"
+    created: "2023-07-21T18:16:05.702247759+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 06760fd3ac1abb63657f990e4bd5846ab685924b1eee1dead5c64356f1fb4157
@@ -4342,7 +4342,7 @@ entries:
     version: 0.4.6
   - apiVersion: v2
     appVersion: v0.4.5
-    created: "2023-07-21T16:18:43.589902257+05:30"
+    created: "2023-07-21T18:16:05.701674532+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: bfe53e6db0a811f724a3baa3154dae64e57b312515c5de1b1ca2e12219427e88
@@ -4360,7 +4360,7 @@ entries:
     version: 0.4.5
   - apiVersion: v2
     appVersion: v0.4.4
-    created: "2023-07-21T16:18:43.589417197+05:30"
+    created: "2023-07-21T18:16:05.70140301+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: c2e1e85682115049aebfaa43916e776d9ca676f29f798d5a813794418c3febf9
@@ -4378,7 +4378,7 @@ entries:
     version: 0.4.4
   - apiVersion: v2
     appVersion: v0.4.3
-    created: "2023-07-21T16:18:43.588871263+05:30"
+    created: "2023-07-21T18:16:05.701134742+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: e34452480f3f7dec197d7b6fabd7c81ffc596996677fda52856bbbaef89e53b3
@@ -4396,7 +4396,7 @@ entries:
     version: 0.4.3
   - apiVersion: v2
     appVersion: v0.4.2
-    created: "2023-07-21T16:18:43.588292649+05:30"
+    created: "2023-07-21T18:16:05.700860791+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: e44b149618fd6167f5b2a6f50fe08d6c97a9bc22faf042d7049fa33236f7bcde
@@ -4414,7 +4414,7 @@ entries:
     version: 0.4.2
   - apiVersion: v2
     appVersion: v0.4.1
-    created: "2023-07-21T16:18:43.587712336+05:30"
+    created: "2023-07-21T18:16:05.700584049+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: bf2117e81d569df99ab7e24b32111b6190f3bb60fcc960bcf1769ca864cee416
@@ -4432,7 +4432,7 @@ entries:
     version: 0.4.1
   - apiVersion: v2
     appVersion: v0.4.0
-    created: "2023-07-21T16:18:43.587102328+05:30"
+    created: "2023-07-21T18:16:05.700295215+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 14479a81f85231968e37c2e5136beb9dafb2759091bf62bad8fdf14261db4f70
@@ -4450,7 +4450,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2023-07-21T16:18:43.586475028+05:30"
+    created: "2023-07-21T18:16:05.700015904+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: 693bf05f3099308c9d3fafcf818908945e963efc419a7ac6777e94ab04f4e8cf
@@ -4468,7 +4468,7 @@ entries:
     version: 0.3.1
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2023-07-21T16:18:43.585420659+05:30"
+    created: "2023-07-21T18:16:05.699633175+05:30"
     description: The sidecar controller provides injection of the Atomix sidecar into
       Kubernetes pods.
     digest: f40a4dafcd35c3971fb6d1911858adb5c25e003ce37cd002ed11364e51dbda35
@@ -4484,4 +4484,4 @@ entries:
     urls:
     - https://ngkore47.github.io/helm-charts/charts.atomix.ngkore.org/atomix-sidecar-controller-0.3.0.tgz
     version: 0.3.0
-generated: "2023-07-21T16:18:43.434711081+05:30"
+generated: "2023-07-21T18:16:05.598687537+05:30"

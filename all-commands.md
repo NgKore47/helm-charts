@@ -3,7 +3,6 @@
 helm ls
 
 #incubator
-helm repo add incubator https://charts.helm.sh/incubator
 
 helm search repo incubator -l
 helm search repo incubator -l | wc -l | awk '{print $1-1}'
@@ -16,7 +15,6 @@ chmod +x scripts/incubator.sh
 ls charts.incubator.ngkore.org | wc -l
 
 #opencord
-helm repo add cord https://charts.opencord.org/
 
 helm search repo cord -l
 helm search repo cord -l | wc -l | awk '{print $1-1}'
@@ -38,7 +36,6 @@ chmod +x scripts/atomix.sh
 ls charts.atomix.ngkore.org | wc -l
 
 #onosproject
-helm repo add onos https://charts.onosproject.org/
 
 helm search repo onos -l
 helm search repo onos -l | wc -l | awk '{print $1-1}'
@@ -60,7 +57,6 @@ chmod +x scripts/aether.sh
 ls charts.aetherproject.ngkore.org | wc -l
 
 #rancher
-helm repo add rancher http://charts.rancher.io/
 
 helm search repo rancher -l
 helm search repo rancher -l | wc -l | awk '{print $1-1}'
@@ -75,9 +71,36 @@ ls charts.rancher.ngkore.org | wc -l
 ```bash
 cd charts.atomix.ngkore.org
 helm repo index . --url https://ngkore47.github.io/helm-charts/charts.atomix.ngkore.org/
+helm search repo atomix -l | awk 'BEGIN {FS="\t"} {print $1 "\t" $2 "\t" $3}' > README.md
+cd ..
 
-touch README.md
+
+cd charts.incubator.ngkore.org
+helm repo index . --url https://ngkore47.github.io/helm-charts/charts.incubator.ngkore.org/
+helm search repo incubator -l | awk 'BEGIN {FS="\t"} {print $1 "\t" $2 "\t" $3}' > README.md
+cd ..
 
 
+cd charts.opencord.ngkore.org
+helm repo index . --url https://ngkore47.github.io/helm-charts/charts.opencord.ngkore.org/
+helm search repo cord -l | awk 'BEGIN {FS="\t"} {print $1 "\t" $2 "\t" $3}' > README.md
+cd ..
 
+
+cd charts.onosproject.ngkore.org
+helm repo index . --url https://ngkore47.github.io/helm-charts/charts.onosproject.ngkore.org/
+helm search repo onos -l | awk 'BEGIN {FS="\t"} {print $1 "\t" $2 "\t" $3}' > README.md
+cd ..
+
+
+cd charts.aetherproject.ngkore.org
+helm repo index . --url https://ngkore47.github.io/helm-charts/charts.aetherproject.ngkore.org/
+helm search repo aether -l | awk 'BEGIN {FS="\t"} {print $1 "\t" $2 "\t" $3}' > README.md
+cd ..
+
+
+cd charts.rancher.ngkore.org
+helm repo index . --url https://ngkore47.github.io/helm-charts/charts.rancher.ngkore.org/
+helm search repo rancher -l | awk 'BEGIN {FS="\t"} {print $1 "\t" $2 "\t" $3}' > README.md
+cd ..
 ```
