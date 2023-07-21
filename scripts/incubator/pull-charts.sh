@@ -33,5 +33,20 @@ done
 if [ -s $error_log ]; then
   echo "Errors occurred during chart downloads. Check the $error_log file for details."
 else
-  echo "All charts downloaded successfully! Number of charts downloaded in the charts.incubator.ngkore.org repository: $(ls charts.incubator.ngkore.org | wc -l)"
+  num_downloaded=$(ls charts.incubator.ngkore.org | wc -l)
+  num_available=$(helm search repo incubator -l | wc -l | awk '{print $1-1}')
+  echo "All charts downloaded successfully! Number of charts downloaded in the charts.incubator.ngkore.org directory: $num_downloaded"
+
+  if [ $num_downloaded -ne $num_available ]; then
+    echo "Number of charts in the directory and the official Helm repo do not match."
+  else
+    echo "Number of charts in the directory and the official Helm repo match."
+  fi
 fi
+
+helm repo remove incubator
+
+URL = "https://ngkore47.github.io/helm-charts/charts.incubator.ngkore.org/"
+cd charts.incubator.ngkore.org/
+helm repo index . --url $URL
+cd ..

@@ -33,5 +33,20 @@ done
 if [ -s $error_log ]; then
   echo "Errors occurred during chart downloads. Check the $error_log file for details."
 else
-  echo "All charts downloaded successfully! Number of charts downloaded in the charts.onosproject.ngkore.org repository: $(ls charts.onosproject.ngkore.org | wc -l)"
+  num_downloaded=$(ls charts.onosproject.ngkore.org | wc -l)
+  num_available=$(helm search repo onos -l | wc -l | awk '{print $1-1}')
+  echo "All charts downloaded successfully! Number of charts downloaded in the charts.onosproject.ngkore.org directory: $num_downloaded"
+
+  if [ $num_downloaded -ne $num_available ]; then
+    echo "Number of charts in the directory and the official Helm repo do not match."
+  else
+    echo "Number of charts in the directory and the official Helm repo match."
+  fi
 fi
+
+helm repo remove onos
+
+URL = "https://ngkore47.github.io/helm-charts/charts.onosproject.ngkore.org/"
+cd charts.onosproject.ngkore.org/
+helm repo index . --url $URL
+cd ..
